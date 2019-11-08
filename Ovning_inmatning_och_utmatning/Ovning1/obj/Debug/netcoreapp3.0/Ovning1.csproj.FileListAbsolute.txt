@@ -1,0 +1,11 @@
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1.deps.json
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1.runtimeconfig.json
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1.runtimeconfig.dev.json
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1.dll
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/bin/Debug/netcoreapp3.0/Ovning1.pdb
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/obj/Debug/netcoreapp3.0/Ovning1.csprojAssemblyReference.cache
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/obj/Debug/netcoreapp3.0/Ovning1.AssemblyInfoInputs.cache
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/obj/Debug/netcoreapp3.0/Ovning1.AssemblyInfo.cs
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/obj/Debug/netcoreapp3.0/Ovning1.dll
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/02. Övningsuppgifter/Ovning_inmatning_och_utmatning/Ovning1/obj/Debug/netcoreapp3.0/Ovning1.pdb
